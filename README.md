@@ -1,4 +1,4 @@
-Welcome to my GitHub! I'm Justin Alirkan, a data analyst. When I am not studying or programming, I'm jamming hard or running scales on my electric guitar, I like to read about crypto technology as well as music theory books. I love building tools to improve my life through programming, learning new styles of music (currently exploring bluegrass), and getting involved in my friends talents.
+Welcome to my GitHub! I'm Justin Alirkan, a data analyst. When I am not studying or programming, I'm jamming hard or running scales on my electric guitar. I like to research data science tools, read music theory books, and learn about crypto. I love building tools to improve my life through programming, learning new styles of music (currently exploring bluegrass), and getting involved in my friends talents.
 
 ### ✔️ I'm currently learning
 - AWS Architects Solutions
@@ -10,9 +10,10 @@ Welcome to my GitHub! I'm Justin Alirkan, a data analyst. When I am not studying
 ### 💡 Goals for 2021:
 - Attain my AWS Solutions Architect Associate Certification
 - Expand my knowledge of statistics
+- Solder a 36 key keyboard from some PCBs
 - Create more tableua projects
 - Learn the basics of TypeScript
-- Grow my musical vocabulary
+- Expand my musical vocabulary
 
 ### ⚡ Relevant achievement
 - Scored in top 10% of machine learning <a href="https://www.drivendata.org/competitions/66/flu-shot-learning/">competition</a>
