@@ -18,13 +18,13 @@ Welcome to my GitHub! I'm Justin Alirkan, a data analyst. When I am not studying
 ### ⚡ Relevant achievement
 - Scored in top 10% of a machine learning <a href="https://www.drivendata.org/competitions/66/flu-shot-learning/">competition</a>
 
-### 🛠 Interested in:
-- Deep learning, automation, devOps, jazz.
-
 ### 📖 Currently Reading:
 - Grokking Algorithms by Aditya Bhargava
 - Designing Data-Intensive Applications by Martin Kleppmann
 - Tonal Harmony by Stefan Kostka
+
+### 🛠 Interested in:
+- Deep learning, automation, devOps, jazz.
 
 ### 📫 Reach me on:
 - <a href="https://www.linkedin.com/in/justin-a-ds/">Linkedin</a>
