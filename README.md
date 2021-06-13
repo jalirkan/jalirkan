@@ -16,7 +16,7 @@ Welcome to my GitHub! I'm Justin Alirkan, a data analyst. When I am not studying
 - Expand my musical vocabulary
 
 ### ⚡ Relevant achievement
-- Scored in top 10% of machine learning <a href="https://www.drivendata.org/competitions/66/flu-shot-learning/">competition</a>
+- Scored in top 10% of a machine learning <a href="https://www.drivendata.org/competitions/66/flu-shot-learning/">competition</a>
 
 ### 🛠 Interested in:
 - Deep learning, automation, devOps, jazz.
