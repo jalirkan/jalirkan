@@ -31,6 +31,11 @@ Welcome to my GitHub! I'm Justin Alirkan, a data analyst. When I am not studying
 - <a href="jalirkan@gmail.com">Gmail</a>
 - <a href="https://twitter.com/JustinA30904098">Twitter</a>
 
+
+<a href="https://github.com/jalirkan">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourpersonaltechguy&show_icons=true&hide_border=true&theme=dark" />
+</a>
+
 <!--
 **jalirkan/jalirkan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
