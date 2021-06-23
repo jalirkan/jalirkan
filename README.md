@@ -33,7 +33,7 @@ Welcome to my GitHub! I'm Justin Alirkan, a data analyst. When I am not studying
 
 
 <a href="https://github.com/jalirkan">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourpersonaltechguy&show_icons=true&hide_border=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jalirkan&show_icons=true&hide_border=true&theme=dark" />
 </a>
 
 <!--
