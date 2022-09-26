@@ -11,7 +11,7 @@ Welcome to my GitHub! I'm Justin Alirkan, a data analyst. When I am not studying
 - Attain my AWS Solutions Architect Associate Certification
 - Expand my knowledge of statistics
 - Solder a 36 key keyboard from some PCBs
-- Create more tableua projects
+- Create more tableau projects
 - Learn the basics of TypeScript
 - Expand my musical vocabulary
 
