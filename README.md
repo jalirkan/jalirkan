@@ -7,7 +7,7 @@ Welcome to my GitHub! I'm Justin Alirkan, a data analyst. When I am not studying
 ### 😍 What i like to do:
 - I like bouncing ideas with other people, challenging problems, learning from others, sharing my experience, and seeing other people's talents.
 
-### 💡 Goals for 2021:
+### 💡 Goals for 2022:
 - Attain my AWS Solutions Architect Associate Certification
 - Expand my knowledge of statistics
 - Solder a 36 key keyboard from some PCBs
