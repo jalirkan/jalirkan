@@ -1,52 +1,56 @@
-Welcome to my GitHub! I'm Justin Alirkan, a data analyst. When I am not studying or programming, I'm jamming hard or running scales on my electric guitar. I like to research data science tools, read music theory books, and learn about crypto. I love building tools to improve my life through programming, learning new styles of music (currently exploring bluegrass), and getting involved in my friends talents.
+<div align="center">
 
-### ✔️ I'm currently learning
-- AWS Architects Solutions
-- Working with databases in AWS
+# Justin Alirkan
 
-### 😍 What i like to do:
-- I like bouncing ideas with other people, challenging problems, learning from others, sharing my experience, and seeing other people's talents.
+**Staff internal auditor · building AI-assisted assurance tooling**
 
-### 💡 Goals for 2023:
-- Attain my AWS Solutions Architect Associate Certification
-- Expand my knowledge of statistics
-- Solder a 36 key keyboard from some PCBs
-- Create more tableau projects
-- Learn the basics of TypeScript
-- Expand my musical vocabulary
+CISA first · CPA next
 
-### ⚡ Relevant achievement
-- Scored in top 10% of a machine learning <a href="https://www.drivendata.org/competitions/66/flu-shot-learning/">competition</a>
+<br/>
 
-### 📖 Currently Reading:
-- Grokking Algorithms by Aditya Bhargava
-- Designing Data-Intensive Applications by Martin Kleppmann
-- Tonal Harmony by Stefan Kostka
+I build tools that help organizations strengthen controls, surface risk earlier,
+and move with clearer evidence — using AI where it sharpens judgment, not where
+it replaces it.
 
-### 🛠 Interested in:
-- Deep learning, automation, devOps, jazz.
+<br/>
 
-### 📫 Reach me on:
-- <a href="https://www.linkedin.com/in/justin-a-ds/">Linkedin</a>
-- <a href="jalirkan@gmail.com">Gmail</a>
-- <a href="https://twitter.com/JustinA30904098">Twitter</a>
+[LinkedIn](https://www.linkedin.com/in/justin-a-ds/)
+·
+[GitHub](https://github.com/jalirkan)
 
+</div>
 
-<!-- <a href="https://github.com/jalirkan">
-  <img src="https://github-readme-stats.vercel.app/api?username=jalirkan&show_icons=true&hide_border=true&theme=dark" />
-</a>
+---
 
+### Featured
 
-**jalirkan/jalirkan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+An **assurance trilogy** — stdlib Python, synthetic data, measured detection rates, workpapers that survive review.
 
-Here are some ideas to get you started:
+| Repo | What it does |
+|------|----------------|
+| [**ai-audit-toolkit**](https://github.com/jalirkan/ai-audit-toolkit) | Assurance procedures for AI systems: probe batteries, tamper-evident evidence journals, drift monitoring, NIST / ISO / EU AI Act–mapped workpapers |
+| [**audit-automation-lab**](https://github.com/jalirkan/audit-automation-lab) | Full-population journal-entry testing & classical analytics — graded against planted ground truth, not asserted accuracy |
+| [**itgc-lab**](https://github.com/jalirkan/itgc-lab) | ITGC testing lab: access reviews, segregation of duties, change management — continuous-mode census with report cards |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Also shipping:
+
+| Repo | What it does |
+|------|----------------|
+| [**crypto-paper-trader**](https://github.com/jalirkan/crypto-paper-trader) | Paper trading stack with live prices, strategy bots, an AI advisor, and a quant research pipeline |
+| [**chord_theory**](https://github.com/jalirkan/chord_theory) | Guitar chord / music-theory tooling from an earlier chapter |
+
+---
+
+### Currently
+
+- Deepening **CISA Domain 5** (protection of information assets) toward the exam
+- Iterating the assurance trilogy toward real engagement workflows
+- Accounting undergrad (2026) · data science background · staff internal audit day job
+
+---
+
+<div align="center">
+
+<sub>Evidence over vibes. Measurement over marketing.</sub>
+
+</div>
