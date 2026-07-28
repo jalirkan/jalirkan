@@ -33,11 +33,11 @@ stdlib Python · synthetic data · measured detection rates · workpapers that s
 
 <div align="center">
 
-[<img src="https://raw.githubusercontent.com/jalirkan/jalirkan/main/assets/card-ai-audit-toolkit.svg" alt="ai-audit-toolkit" height="110"/>](https://github.com/jalirkan/ai-audit-toolkit)
+[<img src="https://raw.githubusercontent.com/jalirkan/jalirkan/main/assets/card-ai-audit-toolkit.png" alt="ai-audit-toolkit" height="110"/>](https://github.com/jalirkan/ai-audit-toolkit)
 &nbsp;&nbsp;
-[<img src="https://raw.githubusercontent.com/jalirkan/jalirkan/main/assets/card-audit-automation-lab.svg" alt="audit-automation-lab" height="110"/>](https://github.com/jalirkan/audit-automation-lab)
+[<img src="https://raw.githubusercontent.com/jalirkan/jalirkan/main/assets/card-audit-automation-lab.png" alt="audit-automation-lab" height="110"/>](https://github.com/jalirkan/audit-automation-lab)
 &nbsp;&nbsp;
-[<img src="https://raw.githubusercontent.com/jalirkan/jalirkan/main/assets/card-itgc-lab.svg" alt="itgc-lab" height="110"/>](https://github.com/jalirkan/itgc-lab)
+[<img src="https://raw.githubusercontent.com/jalirkan/jalirkan/main/assets/card-itgc-lab.png" alt="itgc-lab" height="110"/>](https://github.com/jalirkan/itgc-lab)
 
 </div>
 
@@ -59,9 +59,9 @@ stdlib Python · synthetic data · measured detection rates · workpapers that s
 
 <div align="center">
 
-[<img src="https://raw.githubusercontent.com/jalirkan/jalirkan/main/assets/card-crypto-paper-trader.svg" alt="crypto-paper-trader" height="110"/>](https://github.com/jalirkan/crypto-paper-trader)
+[<img src="https://raw.githubusercontent.com/jalirkan/jalirkan/main/assets/card-crypto-paper-trader.png" alt="crypto-paper-trader" height="110"/>](https://github.com/jalirkan/crypto-paper-trader)
 &nbsp;&nbsp;
-[<img src="https://raw.githubusercontent.com/jalirkan/jalirkan/main/assets/card-chord-theory.svg" alt="chord_theory" height="110"/>](https://github.com/jalirkan/chord_theory)
+[<img src="https://raw.githubusercontent.com/jalirkan/jalirkan/main/assets/card-chord-theory.png" alt="chord_theory" height="110"/>](https://github.com/jalirkan/chord_theory)
 
 </div>
 
