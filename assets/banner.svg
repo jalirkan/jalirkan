@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Justin Alirkan">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0c0b09"/>
+      <stop offset="55%" stop-color="#14110e"/>
+      <stop offset="100%" stop-color="#1a1612"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8a7340"/>
+      <stop offset="50%" stop-color="#d4b56a"/>
+      <stop offset="100%" stop-color="#8a7340"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="38%" r="58%">
+      <stop offset="0%" stop-color="#c9a227" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#c9a227" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="320" fill="url(#bg)"/>
+  <rect width="1200" height="320" fill="url(#glow)"/>
+
+  <rect x="28" y="28" width="1144" height="264" fill="none" stroke="url(#gold)" stroke-width="1.25" opacity="0.9"/>
+  <rect x="36" y="36" width="1128" height="248" fill="none" stroke="#d4b56a" stroke-width="0.5" opacity="0.35"/>
+
+  <g stroke="#d4b56a" stroke-width="1.1" fill="none" opacity="0.95">
+    <path d="M48 70 V48 H70"/>
+    <path d="M1152 70 V48 H1130"/>
+    <path d="M48 250 V272 H70"/>
+    <path d="M1152 250 V272 H1130"/>
+  </g>
+
+  <text x="600" y="96" text-anchor="middle"
+        font-family="Georgia, 'Times New Roman', serif"
+        font-size="13" letter-spacing="7" fill="#a89870">STAFF INTERNAL AUDITOR</text>
+
+  <line x1="380" y1="118" x2="820" y2="118" stroke="url(#gold)" stroke-width="1" opacity="0.75"/>
+  <circle cx="600" cy="118" r="2.4" fill="#d4b56a"/>
+
+  <text x="600" y="175" text-anchor="middle"
+        font-family="Georgia, 'Times New Roman', serif"
+        font-size="54" letter-spacing="5" fill="#f4efe6">Justin Alirkan</text>
+
+  <text x="600" y="218" text-anchor="middle"
+        font-family="Georgia, 'Times New Roman', serif"
+        font-size="16" letter-spacing="3.5" fill="#cfc4a8">AI-assisted assurance tooling</text>
+
+  <text x="600" y="252" text-anchor="middle"
+        font-family="Georgia, 'Times New Roman', serif"
+        font-size="13" letter-spacing="4" fill="#8a7340">CISA  ·  first     ·     CPA  ·  next</text>
+</svg>
