@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/justin-a-ds/)
 [![GitHub](https://img.shields.io/badge/GitHub-0c0b09?style=for-the-badge&logo=github&logoColor=d4b56a)](https://github.com/jalirkan)
-![CISA → CPA](https://img.shields.io/badge/CISA→CPA-14110e?style=for-the-badge&labelColor=0c0b09&color=c9a227)
+![CISA to CPA](https://img.shields.io/badge/CISA%20%E2%86%92%20CPA-14110e?style=for-the-badge&labelColor=0c0b09&color=c9a227)
 
 </div>
 
@@ -31,21 +31,21 @@ and move with clearer evidence — using AI where it *sharpens judgment*, not wh
 
 stdlib Python · synthetic data · measured detection rates · workpapers that survive review
 
-| | Project | Focus |
-|:--:|:--|:--|
-| Ⅰ | [**ai-audit-toolkit**](https://github.com/jalirkan/ai-audit-toolkit) | Assurance for AI systems — probe batteries, tamper-evident journals, drift monitoring, NIST / ISO / EU AI Act workpapers |
-| Ⅱ | [**audit-automation-lab**](https://github.com/jalirkan/audit-automation-lab) | Full-population journal-entry testing & classical analytics — graded against planted ground truth |
-| Ⅲ | [**itgc-lab**](https://github.com/jalirkan/itgc-lab) | ITGC lab — access reviews, SoD, change management — continuous census with report cards |
+<div align="center">
+  <a href="https://github.com/jalirkan/ai-audit-toolkit"><img src="assets/card-ai-audit-toolkit.svg" alt="ai-audit-toolkit" height="110"/></a>
+  &nbsp;
+  <a href="https://github.com/jalirkan/audit-automation-lab"><img src="assets/card-audit-automation-lab.svg" alt="audit-automation-lab" height="110"/></a>
+  &nbsp;
+  <a href="https://github.com/jalirkan/itgc-lab"><img src="assets/card-itgc-lab.svg" alt="itgc-lab" height="110"/></a>
+</div>
 
 <br/>
 
-<div align="center">
-
-[![ai-audit-toolkit](https://github-readme-stats.vercel.app/api/pin/?username=jalirkan&repo=ai-audit-toolkit&bg_color=0c0b09&title_color=d4b56a&icon_color=c9a227&text_color=d4cfc4&border_color=3a3428)](https://github.com/jalirkan/ai-audit-toolkit)
-[![audit-automation-lab](https://github-readme-stats.vercel.app/api/pin/?username=jalirkan&repo=audit-automation-lab&bg_color=0c0b09&title_color=d4b56a&icon_color=c9a227&text_color=d4cfc4&border_color=3a3428)](https://github.com/jalirkan/audit-automation-lab)
-[![itgc-lab](https://github-readme-stats.vercel.app/api/pin/?username=jalirkan&repo=itgc-lab&bg_color=0c0b09&title_color=d4b56a&icon_color=c9a227&text_color=d4cfc4&border_color=3a3428)](https://github.com/jalirkan/itgc-lab)
-
-</div>
+| | Project | Focus |
+|:--:|:--|:--|
+| Ⅰ | [**ai-audit-toolkit**](https://github.com/jalirkan/ai-audit-toolkit) ![stars](https://img.shields.io/github/stars/jalirkan/ai-audit-toolkit?style=flat-square&labelColor=0c0b09&color=c9a227) | Assurance for AI systems — probe batteries, tamper-evident journals, drift monitoring, NIST / ISO / EU AI Act workpapers |
+| Ⅱ | [**audit-automation-lab**](https://github.com/jalirkan/audit-automation-lab) ![stars](https://img.shields.io/github/stars/jalirkan/audit-automation-lab?style=flat-square&labelColor=0c0b09&color=c9a227) | Full-population journal-entry testing & classical analytics — graded against planted ground truth |
+| Ⅲ | [**itgc-lab**](https://github.com/jalirkan/itgc-lab) ![stars](https://img.shields.io/github/stars/jalirkan/itgc-lab?style=flat-square&labelColor=0c0b09&color=c9a227) | ITGC lab — access reviews, SoD, change management — continuous census with report cards |
 
 <br/>
 
@@ -55,19 +55,18 @@ stdlib Python · synthetic data · measured detection rates · workpapers that s
 
 ### Also Shipping
 
-| Project | Focus |
-|:--|:--|
-| [**crypto-paper-trader**](https://github.com/jalirkan/crypto-paper-trader) | Paper trading with live prices, strategy bots, an AI advisor, and a quant research pipeline |
-| [**chord_theory**](https://github.com/jalirkan/chord_theory) | Guitar chord / music-theory tooling from an earlier chapter |
+<div align="center">
+  <a href="https://github.com/jalirkan/crypto-paper-trader"><img src="assets/card-crypto-paper-trader.svg" alt="crypto-paper-trader" height="110"/></a>
+  &nbsp;
+  <a href="https://github.com/jalirkan/chord_theory"><img src="assets/card-chord-theory.svg" alt="chord_theory" height="110"/></a>
+</div>
 
 <br/>
 
-<div align="center">
-
-[![crypto-paper-trader](https://github-readme-stats.vercel.app/api/pin/?username=jalirkan&repo=crypto-paper-trader&bg_color=0c0b09&title_color=d4b56a&icon_color=c9a227&text_color=d4cfc4&border_color=3a3428)](https://github.com/jalirkan/crypto-paper-trader)
-[![chord_theory](https://github-readme-stats.vercel.app/api/pin/?username=jalirkan&repo=chord_theory&bg_color=0c0b09&title_color=d4b56a&icon_color=c9a227&text_color=d4cfc4&border_color=3a3428)](https://github.com/jalirkan/chord_theory)
-
-</div>
+| Project | Focus |
+|:--|:--|
+| [**crypto-paper-trader**](https://github.com/jalirkan/crypto-paper-trader) ![stars](https://img.shields.io/github/stars/jalirkan/crypto-paper-trader?style=flat-square&labelColor=0c0b09&color=c9a227) | Paper trading with live prices, strategy bots, an AI advisor, and a quant research pipeline |
+| [**chord_theory**](https://github.com/jalirkan/chord_theory) ![stars](https://img.shields.io/github/stars/jalirkan/chord_theory?style=flat-square&labelColor=0c0b09&color=c9a227) | Guitar chord / music-theory tooling from an earlier chapter |
 
 <br/>
 
@@ -85,13 +84,10 @@ stdlib Python · synthetic data · measured detection rates · workpapers that s
 
 <div align="center">
 
-<a href="https://github.com/jalirkan">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jalirkan&show_icons=true&include_all_commits=true&count_private=true&bg_color=0c0b09&title_color=d4b56a&icon_color=c9a227&text_color=d4cfc4&border_color=3a3428&hide_border=false" alt="Jalirkan GitHub stats"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/jalirkan">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jalirkan&layout=compact&bg_color=0c0b09&title_color=d4b56a&text_color=d4cfc4&border_color=3a3428&hide_border=false" alt="Top languages"/>
-</a>
+![Followers](https://img.shields.io/github/followers/jalirkan?style=for-the-badge&logo=github&label=Followers&labelColor=0c0b09&color=c9a227)
+![Repos](https://img.shields.io/badge/Public%20repos-8-c9a227?style=for-the-badge&labelColor=0c0b09)
+![Python](https://img.shields.io/badge/Primary-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0c0b09)
+![TypeScript](https://img.shields.io/badge/Also-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0c0b09)
 
 </div>
 
