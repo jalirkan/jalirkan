@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner.svg" alt="Justin Alirkan — Staff internal auditor · AI-assisted assurance tooling" width="100%"/>
+  <img src="https://raw.githubusercontent.com/jalirkan/jalirkan/main/assets/banner.svg" alt="Justin Alirkan — Staff internal auditor · AI-assisted assurance tooling" width="100%"/>
 </div>
 
 <br/>
@@ -24,7 +24,7 @@ and move with clearer evidence — using AI where it *sharpens judgment*, not wh
 <br/>
 
 <div align="center">
-  <img src="assets/divider.svg" alt="" width="480"/>
+  <img src="https://raw.githubusercontent.com/jalirkan/jalirkan/main/assets/divider.svg" alt="" width="480"/>
 </div>
 
 ### Featured · Assurance Trilogy
@@ -32,46 +32,50 @@ and move with clearer evidence — using AI where it *sharpens judgment*, not wh
 stdlib Python · synthetic data · measured detection rates · workpapers that survive review
 
 <div align="center">
-  <a href="https://github.com/jalirkan/ai-audit-toolkit"><img src="assets/card-ai-audit-toolkit.svg" alt="ai-audit-toolkit" height="110"/></a>
-  &nbsp;
-  <a href="https://github.com/jalirkan/audit-automation-lab"><img src="assets/card-audit-automation-lab.svg" alt="audit-automation-lab" height="110"/></a>
-  &nbsp;
-  <a href="https://github.com/jalirkan/itgc-lab"><img src="assets/card-itgc-lab.svg" alt="itgc-lab" height="110"/></a>
+
+[<img src="https://raw.githubusercontent.com/jalirkan/jalirkan/main/assets/card-ai-audit-toolkit.svg" alt="ai-audit-toolkit" height="110"/>](https://github.com/jalirkan/ai-audit-toolkit)
+&nbsp;&nbsp;
+[<img src="https://raw.githubusercontent.com/jalirkan/jalirkan/main/assets/card-audit-automation-lab.svg" alt="audit-automation-lab" height="110"/>](https://github.com/jalirkan/audit-automation-lab)
+&nbsp;&nbsp;
+[<img src="https://raw.githubusercontent.com/jalirkan/jalirkan/main/assets/card-itgc-lab.svg" alt="itgc-lab" height="110"/>](https://github.com/jalirkan/itgc-lab)
+
 </div>
 
 <br/>
 
 | | Project | Focus |
 |:--:|:--|:--|
-| Ⅰ | [**ai-audit-toolkit**](https://github.com/jalirkan/ai-audit-toolkit) ![stars](https://img.shields.io/github/stars/jalirkan/ai-audit-toolkit?style=flat-square&labelColor=0c0b09&color=c9a227) | Assurance for AI systems — probe batteries, tamper-evident journals, drift monitoring, NIST / ISO / EU AI Act workpapers |
-| Ⅱ | [**audit-automation-lab**](https://github.com/jalirkan/audit-automation-lab) ![stars](https://img.shields.io/github/stars/jalirkan/audit-automation-lab?style=flat-square&labelColor=0c0b09&color=c9a227) | Full-population journal-entry testing & classical analytics — graded against planted ground truth |
-| Ⅲ | [**itgc-lab**](https://github.com/jalirkan/itgc-lab) ![stars](https://img.shields.io/github/stars/jalirkan/itgc-lab?style=flat-square&labelColor=0c0b09&color=c9a227) | ITGC lab — access reviews, SoD, change management — continuous census with report cards |
+| I | [**ai-audit-toolkit**](https://github.com/jalirkan/ai-audit-toolkit) | Assurance for AI systems — probe batteries, tamper-evident journals, drift monitoring, NIST / ISO / EU AI Act workpapers |
+| II | [**audit-automation-lab**](https://github.com/jalirkan/audit-automation-lab) | Full-population journal-entry testing & classical analytics — graded against planted ground truth |
+| III | [**itgc-lab**](https://github.com/jalirkan/itgc-lab) | ITGC lab — access reviews, SoD, change management — continuous census with report cards |
 
 <br/>
 
 <div align="center">
-  <img src="assets/divider.svg" alt="" width="480"/>
+  <img src="https://raw.githubusercontent.com/jalirkan/jalirkan/main/assets/divider.svg" alt="" width="480"/>
 </div>
 
 ### Also Shipping
 
 <div align="center">
-  <a href="https://github.com/jalirkan/crypto-paper-trader"><img src="assets/card-crypto-paper-trader.svg" alt="crypto-paper-trader" height="110"/></a>
-  &nbsp;
-  <a href="https://github.com/jalirkan/chord_theory"><img src="assets/card-chord-theory.svg" alt="chord_theory" height="110"/></a>
+
+[<img src="https://raw.githubusercontent.com/jalirkan/jalirkan/main/assets/card-crypto-paper-trader.svg" alt="crypto-paper-trader" height="110"/>](https://github.com/jalirkan/crypto-paper-trader)
+&nbsp;&nbsp;
+[<img src="https://raw.githubusercontent.com/jalirkan/jalirkan/main/assets/card-chord-theory.svg" alt="chord_theory" height="110"/>](https://github.com/jalirkan/chord_theory)
+
 </div>
 
 <br/>
 
 | Project | Focus |
 |:--|:--|
-| [**crypto-paper-trader**](https://github.com/jalirkan/crypto-paper-trader) ![stars](https://img.shields.io/github/stars/jalirkan/crypto-paper-trader?style=flat-square&labelColor=0c0b09&color=c9a227) | Paper trading with live prices, strategy bots, an AI advisor, and a quant research pipeline |
-| [**chord_theory**](https://github.com/jalirkan/chord_theory) ![stars](https://img.shields.io/github/stars/jalirkan/chord_theory?style=flat-square&labelColor=0c0b09&color=c9a227) | Guitar chord / music-theory tooling from an earlier chapter |
+| [**crypto-paper-trader**](https://github.com/jalirkan/crypto-paper-trader) | Paper trading with live prices, strategy bots, an AI advisor, and a quant research pipeline |
+| [**chord_theory**](https://github.com/jalirkan/chord_theory) | Guitar chord / music-theory tooling from an earlier chapter |
 
 <br/>
 
 <div align="center">
-  <img src="assets/divider.svg" alt="" width="480"/>
+  <img src="https://raw.githubusercontent.com/jalirkan/jalirkan/main/assets/divider.svg" alt="" width="480"/>
 </div>
 
 ### Currently
@@ -94,7 +98,7 @@ stdlib Python · synthetic data · measured detection rates · workpapers that s
 <br/>
 
 <div align="center">
-  <img src="assets/divider.svg" alt="" width="360"/>
+  <img src="https://raw.githubusercontent.com/jalirkan/jalirkan/main/assets/divider.svg" alt="" width="360"/>
   <br/><br/>
   <sub><i>Evidence over vibes · Measurement over marketing</i></sub>
 </div>
