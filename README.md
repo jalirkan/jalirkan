@@ -59,6 +59,8 @@ stdlib Python · synthetic data · measured detection rates · workpapers that s
 
 <div align="center">
 
+[<img src="https://raw.githubusercontent.com/jalirkan/jalirkan/main/assets/card-certifications.svg" alt="certifications" height="110"/>](https://github.com/jalirkan/certifications)
+&nbsp;&nbsp;
 [<img src="https://raw.githubusercontent.com/jalirkan/jalirkan/main/assets/card-crypto-paper-trader.png" alt="crypto-paper-trader" height="110"/>](https://github.com/jalirkan/crypto-paper-trader)
 &nbsp;&nbsp;
 [<img src="https://raw.githubusercontent.com/jalirkan/jalirkan/main/assets/card-chord-theory.png" alt="chord_theory" height="110"/>](https://github.com/jalirkan/chord_theory)
@@ -69,6 +71,7 @@ stdlib Python · synthetic data · measured detection rates · workpapers that s
 
 | Project | Focus |
 |:--|:--|
+| [**certifications**](https://github.com/jalirkan/certifications) | Offline CISA study system — 386 original questions, spaced repetition, branching audit cases, calibration, and a report card that scores its own diagnostics |
 | [**crypto-paper-trader**](https://github.com/jalirkan/crypto-paper-trader) | Paper trading with live prices, strategy bots, an AI advisor, and a quant research pipeline |
 | [**chord_theory**](https://github.com/jalirkan/chord_theory) | Guitar chord / music-theory tooling from an earlier chapter |
 
@@ -80,7 +83,8 @@ stdlib Python · synthetic data · measured detection rates · workpapers that s
 
 ### Currently
 
-- Deepening **CISA Domain 5** (protection of information assets) toward the exam
+- Deepening **CISA Domain 5** (protection of information assets) toward the exam — the
+  [study system](https://github.com/jalirkan/certifications) I use for it is public
 - Iterating the assurance trilogy toward real engagement workflows
 - Accounting undergrad (2026) · data science background · staff internal audit day job
 
@@ -89,7 +93,7 @@ stdlib Python · synthetic data · measured detection rates · workpapers that s
 <div align="center">
 
 ![Followers](https://img.shields.io/github/followers/jalirkan?style=for-the-badge&logo=github&label=Followers&labelColor=0c0b09&color=c9a227)
-![Repos](https://img.shields.io/badge/Public%20repos-8-c9a227?style=for-the-badge&labelColor=0c0b09)
+![Repos](https://img.shields.io/badge/Public%20repos-11-c9a227?style=for-the-badge&labelColor=0c0b09)
 ![Python](https://img.shields.io/badge/Primary-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0c0b09)
 ![TypeScript](https://img.shields.io/badge/Also-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0c0b09)
 
